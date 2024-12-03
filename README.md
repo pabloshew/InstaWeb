@@ -5,6 +5,7 @@
 
 #Ferramentas utilizadas# 
 <br> A versão do Bootstarp utilizando no projeto é a v5.3.3(dezembro 2024)
+<br> Visual Studio Code
 <div>
 
  <img src="https://th.bing.com/th/id/OIP.LYV4JUVHw2mrdrYFgyXc5AAAAA?w=201&h=180&c=7&r=0&o=5&pid=1.7" />
