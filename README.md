@@ -5,12 +5,14 @@
 
 #Ferramentas utilizadas# 
 <br> A versão do Bootstarp utilizando no projeto é a v5.3.3(dezembro 2024)
-<br> Visual Studio Code
+<br> Visual Studio Code(App utilizado)
+<br> Html (estilo de código utlizado)
+<br> Css( estilo de código utlizado
 <div>
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" with="70" height="70" />
-          
+   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="70" height="70"/>
    
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="70" height="70" />
